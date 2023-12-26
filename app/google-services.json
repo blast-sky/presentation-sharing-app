@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "884022733425",
+    "firebase_url": "https://presentation-sharing-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "presentation-sharing",
+    "storage_bucket": "presentation-sharing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884022733425:android:5858cdf2345be1736e49d0",
+        "android_client_info": {
+          "package_name": "me.astrog.presentationsharing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFyfza90hhnpYPyJD3AYHCy1BTIN0mBGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
